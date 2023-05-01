@@ -1,5 +1,5 @@
 # StudySeminar
-Presentation Record IN AIMS(2022.05~2022.12)
+Presentation Record In AIMS(2022.05~2022.12)
 
 DeepLearning Pytorch Study Seminar
 
@@ -9,7 +9,6 @@ DeepLearning Pytorch Study Seminar
 
   Ch13. Using segmentations to find suspected nodeuls : https://youtu.be/YI3XHz7XG4k 
 
-
 Paper Review
 
   YOLO(2015) : https://youtu.be/YI3XHz7XG4k
@@ -17,3 +16,7 @@ Paper Review
   AlexNet(2012) : https://youtu.be/olqWSIDCsDY
 
   DETR(2020) : https://youtu.be/U7FlIvorkR0
+  
+Presentation document in BiTamin(2022.08~)
+
+
